@@ -1,0 +1,918 @@
+{
+  "items": [
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson67@example.com",
+      "username": "bjohnson779",
+      "createdDate": "Wed Aug 12 2020 23:23:20 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "7587fb70-82b8-46b2-8185-d786941dba5d"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Miller",
+      "email": "alice.miller94@example.com",
+      "username": "amiller623",
+      "createdDate": "Fri May 12 2023 20:00:22 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "fd91b018-9744-44fc-b09f-eb86a9e16d64"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "email": "charlie.brown54@example.com",
+      "username": "cbrown731",
+      "createdDate": "Wed Feb 17 2021 13:12:36 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "f58d1b02-cc6e-48af-87ae-34c51c07d2bf"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Jones",
+      "email": "frank.jones46@example.com",
+      "username": "fjones175",
+      "createdDate": "Sat Jul 23 2022 10:34:22 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "5532aa70-b29d-412b-b432-4fbe52221007"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Jones",
+      "email": "ivan.jones92@example.com",
+      "username": "ijones658",
+      "createdDate": "Wed May 18 2022 12:21:40 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "13d7d258-0707-4d66-91e2-09212852b00f"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Rodriguez",
+      "email": "bob.rodriguez46@example.com",
+      "username": "brodriguez487",
+      "createdDate": "Sat Mar 22 2025 00:12:12 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "6e0fcd59-76e3-420d-b3f4-3b3d6f405f02"
+    },
+    {
+      "firstName": "Heidi",
+      "lastName": "Williams",
+      "email": "heidi.williams17@example.com",
+      "username": "hwilliams982",
+      "createdDate": "Fri Jul 23 2021 22:58:53 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "e82b3b70-f375-4480-9760-01ec885c13d2"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Smith",
+      "email": "frank.smith72@example.com",
+      "username": "fsmith284",
+      "createdDate": "Sat Sep 07 2024 13:37:09 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "e34c05ff-6191-488e-834d-c518c224b0e0"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Davis",
+      "email": "diana.davis16@example.com",
+      "username": "ddavis640",
+      "createdDate": "Wed Mar 09 2022 10:30:48 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "e12afe62-d4c4-4a54-a44e-2d9c071adcb8"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Wilson",
+      "email": "frank.wilson9@example.com",
+      "username": "fwilson703",
+      "createdDate": "Thu Dec 17 2020 14:47:37 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "77bfb89a-4f43-4bbf-ae84-78484cf133e7"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Davis",
+      "email": "charlie.davis86@example.com",
+      "username": "cdavis813",
+      "createdDate": "Mon Aug 26 2024 21:55:51 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "5d1ebc3f-21fe-4119-b63c-2b56a6fa5f03"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Williams",
+      "email": "diana.williams74@example.com",
+      "username": "dwilliams150",
+      "createdDate": "Wed Mar 26 2025 09:44:25 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "6d912b77-7996-4d3b-8d9c-91b7b9443cb4"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Brown",
+      "email": "diana.brown9@example.com",
+      "username": "dbrown598",
+      "createdDate": "Tue Aug 18 2020 16:28:32 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "678479c5-6c74-4845-ac76-37e9f844e6ee"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Jones",
+      "email": "frank.jones74@example.com",
+      "username": "fjones238",
+      "createdDate": "Wed Feb 26 2025 03:00:25 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "1ce44fbd-63ce-48e0-b5a5-50084eecfd78"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Brown",
+      "email": "frank.brown62@example.com",
+      "username": "fbrown117",
+      "createdDate": "Tue Jan 19 2021 14:25:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "db7fcdc8-27e7-47f4-8a93-4fa878cb9b21"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "email": "frank.miller78@example.com",
+      "username": "fmiller969",
+      "createdDate": "Wed Jul 27 2022 23:01:10 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "48cfdb5e-7f74-4610-afed-6f06c5568ce3"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Williams",
+      "email": "judy.williams78@example.com",
+      "username": "jwilliams855",
+      "createdDate": "Wed Mar 19 2025 14:19:48 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "60011427-27c6-4fbe-b5c2-834a78211638"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Rodriguez",
+      "email": "bob.rodriguez49@example.com",
+      "username": "brodriguez926",
+      "createdDate": "Wed Jun 09 2021 15:29:14 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "a018a7e9-1b68-4961-bf7d-ea1b811b82c1"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Williams",
+      "email": "eve.williams9@example.com",
+      "username": "ewilliams126",
+      "createdDate": "Thu May 04 2023 12:28:14 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "f1b35e4f-d8a2-4d4d-90cb-71164656b1e2"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Garcia",
+      "email": "charlie.garcia30@example.com",
+      "username": "cgarcia604",
+      "createdDate": "Sun Oct 04 2020 08:27:09 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "f4bf1200-8265-4ebd-9f32-66a4cdeb77e1"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Smith",
+      "email": "eve.smith34@example.com",
+      "username": "esmith203",
+      "createdDate": "Sun Jul 17 2022 15:58:08 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "460bf627-3187-4ce2-a7c0-6580f33b8b2a"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "email": "frank.miller75@example.com",
+      "username": "fmiller879",
+      "createdDate": "Fri Sep 17 2021 21:00:30 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "2fbf08a7-74ab-4017-a995-5d723d2c2ebc"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Brown",
+      "email": "diana.brown41@example.com",
+      "username": "dbrown651",
+      "createdDate": "Thu Jul 22 2021 10:40:48 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "e0272c5a-9c53-4bb1-8e41-b1c73189243d"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Miller",
+      "email": "ivan.miller11@example.com",
+      "username": "imiller499",
+      "createdDate": "Mon Nov 28 2022 21:23:25 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "6aeb8a90-c845-4648-a175-8b38e03e4e87"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Garcia",
+      "email": "frank.garcia64@example.com",
+      "username": "fgarcia388",
+      "createdDate": "Thu Dec 31 2020 11:47:38 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "f1de1470-84ee-4dea-b134-7b252f6ea332"
+    },
+    {
+      "firstName": "Heidi",
+      "lastName": "Rodriguez",
+      "email": "heidi.rodriguez13@example.com",
+      "username": "hrodriguez355",
+      "createdDate": "Mon Apr 15 2024 06:36:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "2dbcdd09-9f97-4b66-b69f-8f69f15562ae"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Johnson",
+      "email": "diana.johnson70@example.com",
+      "username": "djohnson433",
+      "createdDate": "Sun Mar 26 2023 15:28:53 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "e601b6db-7a41-43a4-afe8-88cdd50e084c"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Garcia",
+      "email": "eve.garcia60@example.com",
+      "username": "egarcia684",
+      "createdDate": "Wed Apr 30 2025 02:44:44 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "8b2c7496-ec23-42a9-8dd3-dc1d60f4fe7b"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Jones",
+      "email": "bob.jones41@example.com",
+      "username": "bjones611",
+      "createdDate": "Wed Dec 15 2021 01:45:42 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "33bfcd31-e497-4b2d-93eb-92e758a8a6d1"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Miller",
+      "email": "grace.miller40@example.com",
+      "username": "gmiller216",
+      "createdDate": "Sat Dec 19 2020 12:50:32 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "b351c5b8-8837-49d5-ac14-9210c38aa729"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Garcia",
+      "email": "charlie.garcia68@example.com",
+      "username": "cgarcia678",
+      "createdDate": "Mon Feb 21 2022 06:50:37 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "10cc4c70-c6f5-4c21-9127-5e607256583b"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Garcia",
+      "email": "diana.garcia59@example.com",
+      "username": "dgarcia769",
+      "createdDate": "Thu May 23 2024 08:32:58 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "74fd3efa-09a0-4615-9fd8-2feef3ea0aa8"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Rodriguez",
+      "email": "judy.rodriguez13@example.com",
+      "username": "jrodriguez433",
+      "createdDate": "Sun Dec 04 2022 13:41:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "47f466de-6d32-4980-a494-1d90960fdf9d"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Wilson",
+      "email": "alice.wilson56@example.com",
+      "username": "awilson446",
+      "createdDate": "Mon Apr 22 2024 08:15:07 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "1a451eaf-0753-424c-b55a-54952353ea3c"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Brown",
+      "email": "diana.brown61@example.com",
+      "username": "dbrown656",
+      "createdDate": "Wed Oct 06 2021 03:18:56 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "e96082f9-96d3-49e5-8765-4cfbe550dc81"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Williams",
+      "email": "alice.williams2@example.com",
+      "username": "awilliams903",
+      "createdDate": "Sun Mar 12 2023 09:37:20 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "7048975d-ce69-4582-b162-b1e7d20bcc26"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Jones",
+      "email": "diana.jones75@example.com",
+      "username": "djones911",
+      "createdDate": "Fri Feb 28 2025 08:15:02 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "b4d4d2e3-e27c-4d7c-9022-7683c5c59958"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Johnson",
+      "email": "charlie.johnson48@example.com",
+      "username": "cjohnson206",
+      "createdDate": "Fri Jan 06 2023 03:38:30 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "21b14aca-a791-43e2-abff-33b0350fadb8"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Wilson",
+      "email": "bob.wilson90@example.com",
+      "username": "bwilson580",
+      "createdDate": "Mon Mar 31 2025 03:28:22 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "0b358b0e-764c-48e7-a534-eba13c382683"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Wilson",
+      "email": "alice.wilson39@example.com",
+      "username": "awilson116",
+      "createdDate": "Mon Mar 11 2024 13:36:40 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "f3157308-56ab-4b6b-9d48-2401c660cd13"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Wilson",
+      "email": "diana.wilson61@example.com",
+      "username": "dwilson191",
+      "createdDate": "Sat Mar 01 2025 01:44:27 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "f29f7362-1ec9-4679-b6fb-fe247e7bed70"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Wilson",
+      "email": "alice.wilson24@example.com",
+      "username": "awilson759",
+      "createdDate": "Sat Nov 21 2020 06:18:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "a674b63f-8de6-46e5-9862-3874809d4e9d"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Jones",
+      "email": "grace.jones36@example.com",
+      "username": "gjones373",
+      "createdDate": "Sun Jul 24 2022 02:27:58 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "e9a1d0e7-d3a3-46e8-9c60-8691e6bc1f17"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Williams",
+      "email": "ivan.williams12@example.com",
+      "username": "iwilliams336",
+      "createdDate": "Sun Dec 27 2020 01:56:03 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "524e32bd-d355-4d28-8657-d6e73c59870f"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Davis",
+      "email": "grace.davis39@example.com",
+      "username": "gdavis575",
+      "createdDate": "Sat Sep 02 2023 13:20:54 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "d3b1d092-6c99-45d0-a094-cd50225417a6"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Smith",
+      "email": "charlie.smith33@example.com",
+      "username": "csmith630",
+      "createdDate": "Fri Apr 29 2022 08:08:44 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "9951f345-79f6-4326-9999-67da885ba6d4"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Brown",
+      "email": "grace.brown31@example.com",
+      "username": "gbrown431",
+      "createdDate": "Sun Jan 21 2024 02:23:51 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "cfa573a2-10b1-4946-be4c-71b01d4f79cf"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Davis",
+      "email": "judy.davis49@example.com",
+      "username": "jdavis30",
+      "createdDate": "Tue Jun 07 2022 17:31:44 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "117e7767-e393-4336-b418-fecbf4591410"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Davis",
+      "email": "bob.davis23@example.com",
+      "username": "bdavis631",
+      "createdDate": "Mon Jul 11 2022 04:12:35 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "80559617-8830-4d4e-93e8-9c09ab4857cf"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Wilson",
+      "email": "grace.wilson77@example.com",
+      "username": "gwilson818",
+      "createdDate": "Tue Oct 31 2023 22:28:00 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "078b9c68-c8bf-4e67-b83b-94c976d5815d"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Brown",
+      "email": "grace.brown26@example.com",
+      "username": "gbrown316",
+      "createdDate": "Thu Apr 23 2020 15:43:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "f29607be-b28d-4199-a894-074060e65988"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Garcia",
+      "email": "diana.garcia32@example.com",
+      "username": "dgarcia115",
+      "createdDate": "Thu Jan 02 2020 03:47:44 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "82fd6a91-5b19-4f4b-b604-0e81073f2bc0"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Brown",
+      "email": "eve.brown63@example.com",
+      "username": "ebrown48",
+      "createdDate": "Sun Feb 19 2023 04:38:48 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "ef8242f0-f06d-4539-bba8-0b719059b204"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Miller",
+      "email": "judy.miller87@example.com",
+      "username": "jmiller265",
+      "createdDate": "Sat Feb 22 2025 22:19:35 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "783132b6-1d91-45e6-9bc9-b0a7242314cd"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Jones",
+      "email": "ivan.jones77@example.com",
+      "username": "ijones713",
+      "createdDate": "Sun Jan 21 2024 15:22:54 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "bd901dbe-5469-42b1-9a17-c2acdb28fc4a"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Williams",
+      "email": "eve.williams11@example.com",
+      "username": "ewilliams821",
+      "createdDate": "Thu Nov 07 2024 18:27:38 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "782c962f-d27f-4ba6-9438-9277ca864fd4"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Rodriguez",
+      "email": "grace.rodriguez60@example.com",
+      "username": "grodriguez947",
+      "createdDate": "Fri Oct 07 2022 07:52:23 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "53598e2b-91a6-4bdd-8aa0-f3c95c2eb0c2"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Smith",
+      "email": "frank.smith5@example.com",
+      "username": "fsmith360",
+      "createdDate": "Mon Jul 06 2020 11:33:56 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "a4de0837-913f-425c-b322-bcc0166e3357"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Smith",
+      "email": "diana.smith28@example.com",
+      "username": "dsmith629",
+      "createdDate": "Sat Feb 20 2021 22:05:53 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "fc889528-db4d-4c9b-854d-e3b898f52520"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Jones",
+      "email": "grace.jones87@example.com",
+      "username": "gjones652",
+      "createdDate": "Fri Apr 04 2025 04:35:53 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "20aa3f54-c46c-4c27-802f-d6dc5a286437"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Johnson",
+      "email": "frank.johnson55@example.com",
+      "username": "fjohnson711",
+      "createdDate": "Fri Jan 12 2024 11:51:37 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "76196388-532a-423e-80a1-ab27cd8af385"
+    },
+    {
+      "firstName": "Heidi",
+      "lastName": "Williams",
+      "email": "heidi.williams28@example.com",
+      "username": "hwilliams534",
+      "createdDate": "Sun May 22 2022 07:54:31 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "95202fad-e19f-4193-82f9-8ee3abc36418"
+    },
+    {
+      "firstName": "Heidi",
+      "lastName": "Smith",
+      "email": "heidi.smith61@example.com",
+      "username": "hsmith66",
+      "createdDate": "Wed Jun 22 2022 23:56:21 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "9552e652-7523-447f-8f75-d72951f3d4b9"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Williams",
+      "email": "bob.williams41@example.com",
+      "username": "bwilliams841",
+      "createdDate": "Tue Jan 18 2022 03:04:39 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "781fa6a5-295c-430e-8471-6ad217ae387f"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Rodriguez",
+      "email": "alice.rodriguez66@example.com",
+      "username": "arodriguez249",
+      "createdDate": "Tue Dec 27 2022 18:20:07 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "10852aa5-e519-405b-87ac-571935ca01f6"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Williams",
+      "email": "ivan.williams51@example.com",
+      "username": "iwilliams809",
+      "createdDate": "Thu Dec 29 2022 06:15:02 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "5c443b2e-4eaa-45ae-8dc0-8151f1066d34"
+    },
+    {
+      "firstName": "Heidi",
+      "lastName": "Miller",
+      "email": "heidi.miller4@example.com",
+      "username": "hmiller39",
+      "createdDate": "Sun Apr 20 2025 15:03:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "b8b39e6f-3870-42f4-bc01-21f9d670c7c8"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Jones",
+      "email": "judy.jones50@example.com",
+      "username": "jjones503",
+      "createdDate": "Sun Apr 17 2022 23:01:19 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "03207dae-0af3-4cc1-b1f3-e45b969877c9"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Miller",
+      "email": "charlie.miller47@example.com",
+      "username": "cmiller280",
+      "createdDate": "Sun Oct 15 2023 11:43:32 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "744efb66-1da9-4256-8ab9-bfebd90b41a9"
+    },
+    {
+      "firstName": "Heidi",
+      "lastName": "Jones",
+      "email": "heidi.jones88@example.com",
+      "username": "hjones268",
+      "createdDate": "Sat May 16 2020 13:25:13 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "453273d7-a47f-4aef-a4f0-06fecb4cc752"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Williams",
+      "email": "eve.williams4@example.com",
+      "username": "ewilliams438",
+      "createdDate": "Thu Mar 30 2023 07:55:38 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "9b7c179a-fa09-4c46-933a-65c6178eb7e1"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Garcia",
+      "email": "diana.garcia92@example.com",
+      "username": "dgarcia966",
+      "createdDate": "Wed May 07 2025 23:18:08 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "c2484b4a-97f2-4ed3-a404-3803a4426ed8"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Brown",
+      "email": "alice.brown25@example.com",
+      "username": "abrown249",
+      "createdDate": "Wed Dec 09 2020 16:21:09 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "d366fa6b-bb4d-4cf8-a18d-433aa2b5495b"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Davis",
+      "email": "grace.davis25@example.com",
+      "username": "gdavis452",
+      "createdDate": "Fri Jan 12 2024 16:11:14 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "32661d30-7d4d-4b78-b887-4e885d6b607d"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith53@example.com",
+      "username": "asmith954",
+      "createdDate": "Sun Jun 13 2021 18:40:17 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "10b28a76-d020-431e-9da6-5ddfa655ff81"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Smith",
+      "email": "diana.smith85@example.com",
+      "username": "dsmith385",
+      "createdDate": "Sun Aug 29 2021 06:45:08 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "6949ff55-e32e-4595-b3fc-e104f5a3099d"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Davis",
+      "email": "ivan.davis78@example.com",
+      "username": "idavis388",
+      "createdDate": "Sat Oct 08 2022 22:51:17 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "657cc501-a7b9-4f09-a462-71c536f378e7"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Davis",
+      "email": "eve.davis97@example.com",
+      "username": "edavis40",
+      "createdDate": "Sun May 08 2022 15:00:00 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "72223892-2927-44b0-b3db-39be6d50e25e"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Williams",
+      "email": "eve.williams33@example.com",
+      "username": "ewilliams34",
+      "createdDate": "Sat Jul 06 2024 10:23:53 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "bb002bad-4627-4fa8-915e-26edf911268c"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Wilson",
+      "email": "frank.wilson82@example.com",
+      "username": "fwilson592",
+      "createdDate": "Fri Dec 20 2024 14:41:04 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "14e41e49-5dd0-4035-8696-da003e6b0ff7"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Davis",
+      "email": "alice.davis8@example.com",
+      "username": "adavis86",
+      "createdDate": "Fri Oct 11 2024 06:39:04 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "a9d390a7-2e06-401b-9b35-d4a34f3f396a"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Jones",
+      "email": "ivan.jones53@example.com",
+      "username": "ijones300",
+      "createdDate": "Mon Nov 22 2021 05:31:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "5a4f817c-2b52-475e-a4ca-dd60e83bb8f5"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Jones",
+      "email": "alice.jones91@example.com",
+      "username": "ajones861",
+      "createdDate": "Wed Dec 14 2022 08:20:48 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "d3dbc530-ac84-41b9-804f-678d3d790ada"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Wilson",
+      "email": "ivan.wilson63@example.com",
+      "username": "iwilson380",
+      "createdDate": "Mon Nov 02 2020 17:28:06 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "3989aa28-81a8-4ef1-8242-63fa6078d786"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Rodriguez",
+      "email": "grace.rodriguez90@example.com",
+      "username": "grodriguez327",
+      "createdDate": "Sun May 30 2021 07:09:50 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "7e57349b-6775-429f-8a75-5c111e206eb3"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Miller",
+      "email": "eve.miller57@example.com",
+      "username": "emiller285",
+      "createdDate": "Sat May 28 2022 11:08:35 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "898ee58f-8039-4053-b162-b980f31ee52f"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Johnson",
+      "email": "judy.johnson31@example.com",
+      "username": "jjohnson527",
+      "createdDate": "Tue Oct 25 2022 10:05:14 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "matt",
+      "userId": "1ee9d94b-14bd-4fbe-8f75-b65ac12da688"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Garcia",
+      "email": "alice.garcia84@example.com",
+      "username": "agarcia361",
+      "createdDate": "Mon Nov 18 2024 00:51:45 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "8a78c5b1-c7fd-42c3-86d4-6a5eca351d3f"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Garcia",
+      "email": "frank.garcia73@example.com",
+      "username": "fgarcia118",
+      "createdDate": "Sat May 04 2024 17:41:22 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "susan",
+      "userId": "0b3d9d38-1901-4c2b-8e85-cb0ba7add3b9"
+    },
+    {
+      "firstName": "Heidi",
+      "lastName": "Rodriguez",
+      "email": "heidi.rodriguez62@example.com",
+      "username": "hrodriguez165",
+      "createdDate": "Sun Oct 17 2021 01:28:49 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "64fad270-dd64-42c0-9c80-521131f2ef64"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Davis",
+      "email": "bob.davis39@example.com",
+      "username": "bdavis235",
+      "createdDate": "Sun May 14 2023 02:29:24 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "4fc4c697-141b-4189-b27a-2605b597b013"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Brown",
+      "email": "grace.brown76@example.com",
+      "username": "gbrown388",
+      "createdDate": "Sat Oct 03 2020 01:52:09 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "system",
+      "userId": "50787f0a-9728-42b9-bc60-2f8f890aad74"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Smith",
+      "email": "grace.smith49@example.com",
+      "username": "gsmith316",
+      "createdDate": "Wed Sep 28 2022 21:27:39 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "e7584ac6-b4c0-4cc2-9858-573eb8c63d5f"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Davis",
+      "email": "diana.davis58@example.com",
+      "username": "ddavis607",
+      "createdDate": "Wed Aug 07 2024 18:15:48 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "e7846744-8d55-40d3-932c-8368fe04e7bf"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Wilson",
+      "email": "eve.wilson24@example.com",
+      "username": "ewilson625",
+      "createdDate": "Thu Jan 09 2020 00:27:47 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "oracle",
+      "userId": "7fbbd375-1beb-4dc8-93ec-111ae5fdb398"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Johnson",
+      "email": "frank.johnson18@example.com",
+      "username": "fjohnson100",
+      "createdDate": "Tue Dec 28 2021 04:35:58 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "08b1bd37-3ce9-4a52-b8d9-2fd48de832ba"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Rodriguez",
+      "email": "ivan.rodriguez77@example.com",
+      "username": "irodriguez125",
+      "createdDate": "Fri Dec 16 2022 06:21:36 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "3b35c890-c6bd-4656-966c-ed69c7a1ff03"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Davis",
+      "email": "bob.davis91@example.com",
+      "username": "bdavis193",
+      "createdDate": "Thu Feb 01 2024 02:06:41 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "805ab905-d9a5-4a75-91a9-668984b98965"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Jones",
+      "email": "alice.jones89@example.com",
+      "username": "ajones81",
+      "createdDate": "Fri Dec 11 2020 23:52:13 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "admin",
+      "userId": "d61d9e8c-92b8-455d-897a-ae4df98c2d5d"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Brown",
+      "email": "ivan.brown60@example.com",
+      "username": "ibrown364",
+      "createdDate": "Wed Dec 20 2023 01:00:46 GMT+0000 (Coordinated Universal Time)",
+      "createdBy": "john",
+      "userId": "e5a625f3-f043-4957-83e6-8cecdd57b4b0"
+    }
+  ],
+  "count": 500,
+  "hasMore": true,
+  "limit": 100,
+  "offset": 100,
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://1a7bdd8d-03f4-4c0a-a329-e90b71fff749.mock.pstmn.io/api/users?offset=100&limit=100"
+    },
+    {
+      "rel": "next",
+      "href": "https://1a7bdd8d-03f4-4c0a-a329-e90b71fff749.mock.pstmn.io/api/users?offset=200&limit=100"
+    }
+  ]
+}
